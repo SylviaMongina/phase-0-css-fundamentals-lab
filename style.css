@@ -3,3 +3,58 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+ul {
+  list-style-type: none;
+margin: 0;
+padding: 10px;
+background-color: grey;
+}
+figcaption {
+  font-size: smaller;
+text-align: center;
+}
+.center {
+text-align: center;
+width: 800px;
+}
+div{float: left;
+
+}
+
+section > p
+{
+  text-align: center;
+width: 800px;
+margin: auto;
+}
+
+.footer{
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+.left {
+  float: left;
+ color: black;
+ display: inline-flex;
+ padding-right: 50px;
+ margin-left: 100px;
+ background-color: red;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font size: small;
+}
+</style>
